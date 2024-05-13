@@ -45,7 +45,6 @@ source=("${_pkgname}-${pkgver}.tar.gz::https://github.com/google/mediapipe/archi
 sha256sums=('6dd7d31d40ceaf93cd3628815be554c90eaffa0e6143ae4f135a6fa53a4d8905'
             '407eed253257d32c210589109067911a7f32d27155527919b6de7ea2a78d5d6b'
             'a2626c181e854ffd56b72b8ca96ef728272c510c9ae9bdd9d55388ac7d786484'
-            '6eb5201575b9c52dbdba89e0ee4dae14d97ae71f53e4c3662d65a674b6e38e64'
             '55adaa6a74015f160b0dbf45d997c004cd7ecded501940a32c69c512956b0524'
             'aec0c8dbd0b370cc33f4c919f7881ed36b1c8674a0f64d2a4c4bda46f944f23a')
 
