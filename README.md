@@ -1,6 +1,6 @@
 # PKGBUILD for building mediapipe python binding for ArchLinux with GPU support by opengl
 
-Update: 2024.05.12, this PKGBUILD is tested for mediapipe 0.10.13, and should also works for the latest master branch.
+Update: 2024.05.21, this PKGBUILD is tested for mediapipe 0.10.14, and should also works for the latest master branch.
 
 To build mediapipe for ArchLinux with GPU support by opengl, we need to:
 
